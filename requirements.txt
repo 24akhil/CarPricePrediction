@@ -1,0 +1,73 @@
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
+attrs @ file:///tmp/build/80754af9/attrs_1598374659300/work
+backcall==0.2.0
+bleach==3.1.5
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///C:/ci/cffi_1598352710791/work
+chardet==3.0.4
+colorama==0.4.3
+cryptography @ file:///C:/ci/cryptography_1598353391057/work
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1593446511143/work
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython==7.18.1
+ipython-genutils==0.2.0
+jedi @ file:///C:/ci/jedi_1598353661586/work
+Jinja2==2.11.2
+joblib==0.16.0
+json5==0.9.5
+jsonschema==3.2.0
+jupyter-client==6.1.7
+jupyter-core==4.6.3
+jupyterlab==2.2.6
+jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib==3.3.1
+mistune==0.8.4
+nbconvert==5.6.1
+nbformat==5.0.7
+notebook==6.1.3
+numpy==1.19.1
+packaging==20.4
+pandas==1.1.1
+pandocfilters==1.4.2
+parso==0.7.1
+pickleshare==0.7.5
+Pillow==7.2.0
+prometheus-client==0.8.0
+prompt-toolkit==3.0.7
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments==2.6.1
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+pyrsistent==0.16.0
+PySocks==1.7.1
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==228
+pywinpty==0.5.7
+pyzmq==19.0.2
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+scikit-learn==0.23.2
+scipy==1.5.2
+seaborn==0.10.1
+Send2Trash==1.5.0
+six==1.15.0
+sklearn==0.0
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl==2.1.0
+tornado==6.0.4
+traitlets==4.3.3
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+win-inet-pton==1.1.0
+wincertstore==0.2
+zipp==3.1.0
